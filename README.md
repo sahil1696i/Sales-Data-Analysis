@@ -30,9 +30,3 @@ A production-ready, interactive Sales Analytics Dashboard built with **React** +
 | Google Fonts| —         | Syne (display) + DM Mono (body) |
 
 No TypeScript, no Redux, no heavy dependencies — just clean React with hooks.
-
-## 🙌 Credits
-
-- Charts powered by [Recharts](https://recharts.org/)
-- Icons by [Lucide](https://lucide.dev/)
-- Fonts: [Syne](https://fonts.google.com/specimen/Syne) & [DM Mono](https://fonts.google.com/specimen/DM+Mono) via Google Fonts
